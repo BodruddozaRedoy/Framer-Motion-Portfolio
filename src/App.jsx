@@ -6,8 +6,8 @@ const App = () => {
     <section>
       <Navbar/>
     </section>
-    <section>Home</section>
-    <section>Home</section>
+    <section>Portfolio</section>
+    <section>Section</section>
     <section>Home</section>
     <section>Home</section>
     <section>Home</section>
