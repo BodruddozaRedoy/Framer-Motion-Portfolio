@@ -3,14 +3,13 @@ import Navbar from "./components/navbar/Navbar";
 
 const App = () => {
   return <div>
-    <section>
+    <section id="Home">
       <Navbar/>
     </section>
-    <section>Portfolio</section>
-    <section>Section</section>
-    <section>Home</section>
-    <section>Home</section>
-    <section>Home</section>
+    <section id="Services">Services</section>
+    <section id="Portfolio">Portfolio</section>
+    <section id="Contact">Contact</section>
+    <section id="About">About</section>
   </div>;
 };
 
